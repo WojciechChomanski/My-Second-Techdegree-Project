@@ -5,11 +5,11 @@
 
 body {
     padding:5%;
-    background: black;
+    background: rgb(95, 92, 92);
 }
 
 h1, h2, p, li, h3 {
-    color: whitesmoke !important;
+    color: black !important;
 }
 
 img {
