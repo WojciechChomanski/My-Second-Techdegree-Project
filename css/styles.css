@@ -133,6 +133,9 @@ footer {
 .nav-footer {
     display: none;
 }
+p.name {
+  margin: 16px 0px;
+}
 
 @media (min-width: 768px) {
     .container {
@@ -180,6 +183,7 @@ footer {
   .nav-footer li {
     list-style: none;
     padding-left: 20px;
+    margin: 16px 0px;
 }
   .top {
     display: none;
